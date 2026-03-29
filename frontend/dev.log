@@ -1,0 +1,9 @@
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+
+> frontend@0.1.0 dev
+> next dev
+
+- [33mwarn[39m Port 3000 is in use, trying 3001 instead.
+- [33mwarn[39m Port 3001 is in use, trying 3002 instead.
+- [32mready[39m started server on [::]:3002, url: http://localhost:3002
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
